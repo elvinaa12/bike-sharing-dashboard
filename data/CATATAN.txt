@@ -1,0 +1,2 @@
+Letakkan day.csv dan hour.csv (dari dataset Bike Sharing yang diunduh) di folder ini.
+Hapus berkas CATATAN.txt ini sebelum mengirim submission.
